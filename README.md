@@ -1,2 +1,3 @@
 # Genius-Fizik---Unity-2D
-Codes for my final year project.  
+Some codes used for my final year project.  
+A mobile game used for Physics learning.
